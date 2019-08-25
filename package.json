@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "async-mqtt": "^2.4.2",
     "webthing": "^0.12.0"
   },
   "devDependencies": {},
