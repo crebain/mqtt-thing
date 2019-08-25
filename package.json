@@ -1,0 +1,23 @@
+{
+  "name": "mqtt-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webthing": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crebain/mqtt-thing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crebain/mqtt-thing/issues"
+  },
+  "homepage": "https://github.com/crebain/mqtt-thing#readme"
+}
