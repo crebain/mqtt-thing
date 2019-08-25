@@ -18,8 +18,8 @@ sensor.addProperty(
       title: 'Temperature',
       type: 'number',
       description: 'Current temperature under the stairs',
-      minimum: -273.15,
-      maximum: Number.POSITIVE_INFINITY,
+      minimum: -50,
+      maximum: 100,
       unit: '°C',
       readOnly: true
     }
